@@ -4,7 +4,7 @@ This repo contains sample code that can be used in tech interviews.
 
 It currently contains two solutions, for two different use cases.
 
-Both are built on .NET 7
+Both are built on .NET 7 - modern enough to have the features that most candidates will expect, but not using the new features in .NET 8 that not everyone has had exposure to.
 
 ## Person service with unit tests
 
